@@ -1,0 +1,4 @@
+Type,Material,Volume_m3
+IfcBeam,wood_spruce_beam,0.49
+IfcFooting,concrete_reinforced_in-situ,3.69
+IfcWall,stone_sand-lime,11.01

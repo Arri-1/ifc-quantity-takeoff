@@ -1,0 +1,12 @@
+GlobalId,Type,Name,Material,Volume_m3
+0fqX614OH1YO1Njdxms2$Q,IfcBeam,girder,wood_spruce_beam,0.05400000000000022
+0rh7bRO0L9fg1NzgGKU$Ut,IfcBeam,girder,wood_spruce_beam,0.11600000000000245
+3roxUKbVv98xiUcl22_T07,IfcBeam,girder,wood_spruce_beam,0.011999999999998975
+0Lvk$Qa81D5et3l3a4S9Vk,IfcBeam,girder,wood_spruce_beam,0.08000000000000054
+2ddLgAnQf4mBfh5IpUp54U,IfcBeam,girder,wood_spruce_beam,0.11600000000000235
+2fjJuPht9EIQaZQYZfC1Op,IfcBeam,girder,wood_spruce_beam,0.11600000000000235
+0DyViLJJ175RvWQi1rE7a6,IfcWall,house - outer wall - house back,stone_sand-lime,4.286515368539449
+3SGBcf7Lv0r80vKtUCgOpf,IfcWall,house - outer wall - house front,stone_sand-lime,2.9313093077792756
+3oNJ9yHi5FJuFnK8yg68Yt,IfcWall,house - outer wall - house front right,stone_sand-lime,0.7456913421348147
+37GxndZsXCwBzM0QrdRDLo,IfcWall,house - inner wall,stone_sand-lime,3.0445740264050034
+0pFmhV8oD1dB40_b4pscr8,IfcFooting,house - foundation,concrete_reinforced_in-situ,3.69375
